@@ -13,11 +13,11 @@ This application could have its own section in the hosts file and not interfere 
 
 ### BEGIN MENUHOSTS ###
 
-127.0.0.1 mylittleserver.local
-127.0.0.1 someserver.local
-123.456.789.123 example.com
-123.456.789.123 example.org
-127.0.0.1 example.net
+127.0.0.1        mylittleserver.local
+127.0.0.1        someserver.local
+123.456.789.123  example.com
+123.456.789.123  example.org
+127.0.0.1        example.net
 
 ### END MENUHOSTS ###
 
