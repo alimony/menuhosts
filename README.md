@@ -26,4 +26,4 @@ This application could have its own section in the hosts file and not interfere 
 
 Well, that’s all I have at the moment. If you’re interested in writing this application, please get in touch – maybe we can collaborate in some way:
 
-markus.magnuson@gmail.com
+markus@polyscopic.works
